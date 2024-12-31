@@ -44,8 +44,6 @@ The analysis highlights the strengths and limitations of each model to provide i
 -   **Strengths**: Efficient in capturing global context.
 -   **Limitations**: Needs large datasets for training.
 
----
-
 ## Usage Instructions
 
 Detailed usage instructions for running each model, including dataset preparation and evaluation steps, are available in the project source directory.
