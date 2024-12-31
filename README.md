@@ -54,9 +54,7 @@ Detailed usage instructions for running each model, including dataset preparatio
 
 ## Authors
 
--   **Hà Trọng Nguyễn** - 52200148
--   **Chung Thái Kiệt** - 52200141
-
-**Advisor**: Dr. Phạm Văn Huy
+-   **Hà Trọng Nguyễn**
+-   **Chung Thái Kiệt**
 
 This project was conducted as part of the Midterm Report for the "Introduction to Computer Vision" course at Tôn Đức Thắng University, Ho Chi Minh City, Vietnam, 2024.
